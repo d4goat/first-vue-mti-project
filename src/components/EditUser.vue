@@ -9,7 +9,7 @@
           <label class="py-2">Email</label>
           <input type="email" v-model="user.email" name="email" id="email" class="form-control" />
   
-          <input type="submit" value="Save" class="btn btn-success position-relative" style="margin-top: 0.6em; margin-left: 43%;" />
+          <input type="submit" value="Save" class="btn btn-success position-relative mt-4" style="margin-left: 45%;" />
         </form>
       </div>
     </div>
